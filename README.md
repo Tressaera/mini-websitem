@@ -1,1 +1,1 @@
-# mini-websitem
+Minimal tarzdaki web sitem
